@@ -3188,36 +3188,29 @@
 					};
 					51314636235A7BBE00387FDC = {
 						CreatedOnToolsVersion = 11.2;
-						DevelopmentTeam = SHJK2V3AJG;
 						LastSwiftMigration = 1120;
 						ProvisioningStyle = Automatic;
 					};
 					513C5CE5232571C2003D4054 = {
 						CreatedOnToolsVersion = 11.0;
-						DevelopmentTeam = SHJK2V3AJG;
 						ProvisioningStyle = Automatic;
 					};
 					518B2ED12351B3DD00400001 = {
 						CreatedOnToolsVersion = 11.2;
-						DevelopmentTeam = SHJK2V3AJG;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 840D617B2029031C009BC708;
 					};
 					6581C73220CED60000F4AD34 = {
-						DevelopmentTeam = SHJK2V3AJG;
 						ProvisioningStyle = Automatic;
 					};
 					65ED3FA2235DEF6C0081F399 = {
-						DevelopmentTeam = SHJK2V3AJG;
 						ProvisioningStyle = Automatic;
 					};
 					65ED4090235DEF770081F399 = {
-						DevelopmentTeam = SHJK2V3AJG;
 						ProvisioningStyle = Automatic;
 					};
 					840D617B2029031C009BC708 = {
 						CreatedOnToolsVersion = 9.3;
-						DevelopmentTeam = SHJK2V3AJG;
 						LastSwiftMigration = 1250;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -3228,7 +3221,6 @@
 					};
 					849C645F1ED37A5D003D8FC0 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = SHJK2V3AJG;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.HardenedRuntime = {
@@ -3238,7 +3230,6 @@
 					};
 					849C64701ED37A5D003D8FC0 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = SHJK2V3AJG;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 849C645F1ED37A5D003D8FC0;
 					};
@@ -4579,6 +4570,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1768140A2564BB8300D98635 /* NetNewsWire_iOSwidgetextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4586,6 +4578,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 1768140A2564BB8300D98635 /* NetNewsWire_iOSwidgetextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4593,6 +4586,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 510C418724E5D2E3008226FD /* NetNewsWire_shareextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4600,6 +4594,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 510C418724E5D2E3008226FD /* NetNewsWire_shareextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4607,6 +4602,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 51314617235A797400387FDC /* NetNewsWire_iOSintentextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4614,6 +4610,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 51314617235A797400387FDC /* NetNewsWire_iOSintentextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4621,6 +4618,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 515D4FCE2325B3D000EE1167 /* NetNewsWire_iOSshareextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4628,6 +4626,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 515D4FCE2325B3D000EE1167 /* NetNewsWire_iOSshareextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4635,6 +4634,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 518B2EE92351B4C200400001 /* NetNewsWire_iOSTests_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4642,6 +4642,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 518B2EE92351B4C200400001 /* NetNewsWire_iOSTests_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4649,6 +4650,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6538135B2680E3A9007A082C /* NetNewsWire_shareextension_target_macappstore.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4656,6 +4658,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6538135B2680E3A9007A082C /* NetNewsWire_shareextension_target_macappstore.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4663,6 +4666,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D519E74722EE553300923F27 /* NetNewsWire_safariextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4670,6 +4674,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D519E74722EE553300923F27 /* NetNewsWire_safariextension_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4677,6 +4682,8 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 65ED40F2235DF5E00081F399 /* NetNewsWire_macapp_target_macappstore.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4684,6 +4691,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 65ED40F2235DF5E00081F399 /* NetNewsWire_macapp_target_macappstore.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "Apple Development";
 			};
 			name = Release;
 		};
@@ -4691,6 +4699,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 65ED4186235E045B0081F399 /* NetNewsWire_safariextension_target_macappstore.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4705,6 +4714,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 51121AA12265430A00BC0EC1 /* NetNewsWire_iOSapp_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4712,6 +4722,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 51121AA12265430A00BC0EC1 /* NetNewsWire_iOSapp_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4733,6 +4744,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D5907CE02002F0FA005947E5 /* NetNewsWire_macapp_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4740,6 +4752,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D5907CE02002F0FA005947E5 /* NetNewsWire_macapp_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
@@ -4747,6 +4760,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D5907CDF2002F0F9005947E5 /* NetNewsWireTests_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Debug;
 		};
@@ -4754,6 +4768,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = D5907CDF2002F0F9005947E5 /* NetNewsWireTests_target.xcconfig */;
 			buildSettings = {
+				DEVELOPMENT_TEAM = G2ZUQ5958D;
 			};
 			name = Release;
 		};
